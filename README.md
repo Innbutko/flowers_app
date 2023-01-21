@@ -2,7 +2,7 @@
 
 Flowers list app
 
-## Required SDK
+## Required SDK to install
 [Dart](https://dart.dev/get-dart)
 programming language
 
