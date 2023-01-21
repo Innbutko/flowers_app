@@ -3,8 +3,14 @@
 Flowers list app
 
 ## Required SDK
-!(Flutter)[https://docs.flutter.dev/get-started/install]
+[Dart](https://dart.dev/get-dart)
+programming language
+
+[Flutter](https://docs.flutter.dev/get-started/install)
+dart framework
 
 ## To start app
-flutter pub get
-flutter run
+```
+$ flutter pub get
+$ flutter run
+````
